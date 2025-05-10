@@ -1,0 +1,12 @@
+{
+  "name": "express-output-app",
+  "version": "1.0.0",
+  "description": "Express.js application with /output route",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
